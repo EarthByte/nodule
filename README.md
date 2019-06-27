@@ -4,7 +4,7 @@
 To run the code it is recommended to setup a local Python3.7 conda environment on a macOS or Ubuntu Linux machine
 ```sh
 $ conda create -n polymetallic-nodules python=3.7 numpy scipy pandas xlrd scikit-learn netcdf4 xarray jupyter matplotlib
-$ source activate polymetallic-nodules
+$ conda activate polymetallic-nodules
 ```
 The project-specific utilities may then be installed
 ```sh
