@@ -22,4 +22,5 @@ Running the notebook will produce the following materials:
 * Mutual information bar graph (`mi.pdf`)
 * Variable dependence plots (`variable_dependence.pdf`)
 * Nodule occurrence probability grids (`probability_grids.nc`)
+
 Expected runtime for the full notebook on a standard laptop is 5hrs.
