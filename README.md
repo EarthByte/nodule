@@ -15,7 +15,7 @@ $ pip install -e utils
 All data files are required to be present in the `data` directory.
 Running the notebook will produce the following materials:
 * Nearest neighbour interpolated variable grids (`grids.nc`)
-* Nodule and control point data files (`nodules.csv`, `control.csv`)
+* Nodule and control point data files with variable values interpolated at exploration points (`nodules.csv`, `control.csv`)
 * Grid data interpolated on a Fibonnacci lattice (`lattice.csv`)
 * Kolmogorov-Smirnov statistics for comparison of oceanic variable samples at exploration and lattice points (`ks_stats.csv`)
 * Mutual information estimate between variable and nodule occurrence probability grids (`mi.csv`)
