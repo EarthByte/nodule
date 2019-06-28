@@ -12,7 +12,7 @@ $ pip install -e utils
 ```
 
 ## Running the code
-All data files are required to be present in the `data` directory.
+All data files are required to be present in the `data` directory, with the oceanic variable grids under `data/grids` and the files containing the nodule and control lat-lon points under `data/csv`.
 Running the notebook will produce the following materials:
 * Nearest neighbour interpolated variable grids (`grids.nc`)
 * Nodule and control point data files with variable values interpolated at exploration points (`nodules.csv`, `control.csv`)
@@ -22,3 +22,4 @@ Running the notebook will produce the following materials:
 * Mutual information bar graph (`mi.pdf`)
 * Variable dependence plots (`variable_dependence.pdf`)
 * Nodule occurrence probability grids (`probability_grids.nc`)
+Expected runtime for the full notebook on a standard laptop is 5hrs.
