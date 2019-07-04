@@ -23,4 +23,4 @@ Running the notebook will produce the following materials:
 * Variable dependence plots (`variable_dependence.pdf`)
 * Nodule occurrence probability grids (`probability_grids.nc`)
 
-Expected runtime for the full notebook on a standard laptop is 5hrs.
+Expected runtime for the full notebook on a standard laptop is approximately 5hrs. Most of the computation is concerned with estimating the mutual information between the nodule occurrence probability and the variable grids.
