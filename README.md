@@ -12,7 +12,7 @@ $ pip install -e utils
 ```
 
 ## Running the code
-All data files are required to be present in the `data` directory, with the oceanic variable grids under `data/grids` and the files containing the nodule and control lat-lon points under `data/csv`.
+All data files are required to be present in the `data` directory, with the oceanic variable grids under `data/grids` and the files containing the nodule and control lat-lon points under `data/csv`. Make sure that you have installed "LaTex".
 Running the notebook will produce the following materials:
 * Nearest neighbour interpolated variable grids (`grids.nc`)
 * Nodule and control point data files with variable values interpolated at exploration points (`nodules.csv`, `control.csv`)
