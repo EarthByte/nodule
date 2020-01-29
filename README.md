@@ -1,4 +1,4 @@
-# Polymetalic nodules occurrence model
+# Polymetallic nodule occurrence model
 
 ## Reference
 This github repository is a supplement to the paper: Dutkiewicz, A., Judge, A. and Müller, R.D., 2020, Environmental predictors of deep-sea polymetallic nodule occurrence in the global ocean, Geology, 48, p. XXX–XXX, https://doi.org/10.1130/G46836.1
