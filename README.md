@@ -1,6 +1,7 @@
 # Polymetalic nodules occurrence model
 
-# This github repository is a supplement to the paper: Dutkiewicz, A., Judge, A. and Müller, R.D., 2020, Environmental predictors of deep-sea polymetallic nodule occurrence in the global ocean, Geology, 48, p. XXX–XXX, https://doi.org/10.1130/G46836.1
+## Reference
+This github repository is a supplement to the paper: Dutkiewicz, A., Judge, A. and Müller, R.D., 2020, Environmental predictors of deep-sea polymetallic nodule occurrence in the global ocean, Geology, 48, p. XXX–XXX, https://doi.org/10.1130/G46836.1
 
 ## Installing dependencies
 To run the code it is recommended to setup a local Python3.7 conda environment on a macOS or Ubuntu Linux machine
